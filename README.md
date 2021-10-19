@@ -1,6 +1,8 @@
 # Netflix
 Netflix/HULU App Clone.
 
+Tech Used: HTML5, CSS3, ReactJs, Material UI, API etc.
+
 ![Screenshot 2021-06-21 at 18-21-51 HULU](https://user-images.githubusercontent.com/63330165/122765357-0be35880-d2be-11eb-972f-692e10281baa.png)
 
 ![index](https://user-images.githubusercontent.com/63330165/122765212-e9e9d600-d2bd-11eb-89e9-2ad5de9fd037.jpg)
